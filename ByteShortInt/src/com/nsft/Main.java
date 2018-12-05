@@ -6,7 +6,7 @@ public class Main {
 
         // INT HAS A WIDTH OF 32
         int myMinIntValue = -2147483648; // THIS IS THE MINIMUN NUMBER THAT AN INTEGER VALUE CAN HOLD
-        int myMaxIntValue = 2147483647; // THIS IS THE MAXIMUN NUMBER THAT AN INTEGER VALUE CAN HOLD
+        int myMaxIntValue = 214483647; // THIS IS THE MAXIMUN NUMBER THAT AN INTEGER VALUE CAN HOLD
         int myTotal = (myMinIntValue / 2);
         System.out.println("My Total: " + myTotal);
 
